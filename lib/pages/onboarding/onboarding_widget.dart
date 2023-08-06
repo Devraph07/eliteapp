@@ -90,7 +90,7 @@ class _OnboardingWidgetState extends State<OnboardingWidget>
           child: Column(
             mainAxisSize: MainAxisSize.max,
             children: [
-              Expanded(
+              Flexible(
                 child: Padding(
                   padding: EdgeInsetsDirectional.fromSTEB(0.0, 0.0, 0.0, 40.0),
                   child: PageView(
