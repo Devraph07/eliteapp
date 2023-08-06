@@ -1,4 +1,4 @@
-package EliteInternationalFreightCargo.ltd
+package com.elitefreight233app
 
 import io.flutter.embedding.android.FlutterActivity
 

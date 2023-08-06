@@ -453,7 +453,7 @@ class _HomeWidgetState extends State<HomeWidget> with TickerProviderStateMixin {
                           child: ClipRRect(
                             borderRadius: BorderRadius.circular(8.0),
                             child: Image.asset(
-                              'assets/images/eau_de_parfum_(1).png',
+                              'assets/images/logo-dark.png',
                               width: 200.0,
                               height: 70.0,
                               fit: BoxFit.fitWidth,

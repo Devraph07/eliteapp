@@ -217,7 +217,7 @@ class _GetQuoteWidgetState extends State<GetQuoteWidget>
                                                         FlutterFlowRadioButton(
                                                       options: [
                                                         'Air Freight',
-                                                        'Water Freight'
+                                                        'Ocean Freight'
                                                       ].toList(),
                                                       onChanged: (val) =>
                                                           setState(() {}),
